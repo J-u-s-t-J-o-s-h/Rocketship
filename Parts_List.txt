@@ -1,0 +1,22 @@
+Format shown below : 
+
+Part Name : 
+Group # :
+Part # : 
+
+Let's associate each individual part to a specific group for better organization .
+
+Group and Part #'s can be made up as long as it is consistent and uniform to the project as a whole .
+
+Ex. :
+
+Part Name : Momentary Push Button
+Group # : 1
+Part # : 1
+Notes : Power = 5V DC ; Pin 1 = Positve ; Pin 2 = Negative ; Pin 3 = Data
+______
+
+Part Name : Momentary Push Button
+Group # : 1
+Part # : 2
+Notes : Power = 5V DC ; Pin 1 = Positve ; Pin 2 = Negative ; Pin 3 = Data
